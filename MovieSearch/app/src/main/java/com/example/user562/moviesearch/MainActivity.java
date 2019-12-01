@@ -47,8 +47,8 @@ public class MainActivity extends AppCompatActivity {
     MyAdapter myAdapter = null;
 
     //api url
-    private String CLIENT_ID = "qHBsG71pIg49DyjCKGsd";
-    private String CLIENT_SECRET = "7CQYm4DjQn";
+    private String CLIENT_ID = "";
+    private String CLIENT_SECRET = "";
     private int URL_DISPLAY = 10;
     private int URL_START = 1; //1~1000
     private String URL_SEARCH = "https://openapi.naver.com/v1/search/movie.json?query=";
